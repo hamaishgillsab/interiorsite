@@ -1,0 +1,49 @@
+.write{
+
+    /* display: inline-block; */ 
+ 
+}
+
+.qwe{
+    /* flex-direction: row; */
+    margin: 10%;
+    display: flex;
+
+    /* margin-bottom: 10%; */
+    /* width: 100%; */
+    /* margin-left: 10;
+    margin-right: 10; */
+    
+    /* justify-content: center; */
+    /* flex-direction: row-reverse; */
+   
+   
+     
+    background-color: #949133;
+    box-shadow: 0 0 20px -2px #1f2235;
+}
+.we{
+    flex-grow: 3;
+    width: 50%;
+    
+
+}
+
+
+
+.pic{
+    /* display: inline-block; */
+    flex-grow: 3;
+    width: 50%;
+   
+
+}
+.q{
+    
+    
+    /* margin-bottom: 80%;  */
+    /* position: absolute; */
+    /* bottom: 5px; */
+
+    /* right: 15%; */
+} 

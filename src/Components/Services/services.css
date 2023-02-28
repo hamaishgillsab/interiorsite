@@ -1,0 +1,8 @@
+.color{
+    background-color: #85862d;
+}
+
+.color:hover{
+    background-color: rgb(135, 100, 40);
+    opacity: 5;
+}
